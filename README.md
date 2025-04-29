@@ -1,2 +1,2 @@
 # GoogleColab_practice
-プログラミング練習用
+プログラミング練習記録
